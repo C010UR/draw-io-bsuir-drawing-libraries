@@ -25,3 +25,14 @@ Supported formats:
 ### GOST 19.701-90 figures
 
 ![figures](https://github.com/C010UR/draw-io-bsuir-drawing-libraries/assets/95462776/d83f2e6c-21e5-402f-bfd0-e37bc8ea9c11)
+
+## FAQ
+
+### How to set default arrow style?
+
+1. Create an arrow
+2. Change a style to your preference
+3. Right click on the arrow
+4. Click Set as Default Style
+
+![image](https://github.com/C010UR/draw-io-bsuir-drawing-libraries/assets/95462776/3de92f5a-963c-4067-9b94-90bbfdf565b6)
